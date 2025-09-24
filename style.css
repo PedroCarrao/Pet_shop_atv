@@ -142,3 +142,13 @@ nav ul li:first-child{
    justify-content: center;
    text-align: center;
  }
+
+ /* #################################### FALE CONOSCO ############################### */
+
+ .fale-conosco{
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  height: auto;
+  padding: 40px 0;
+ }
